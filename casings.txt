@@ -1,0 +1,13 @@
+camelCase
+javaScript variables
+
+TitleCase C#
+PascalCase 
+
+kebob-camel file and folder names, webpage names
+word-word-word-uses-hyphens
+
+snake_case Python Sequel
+uses_underscores_not_hyphens
+
+README case used for specific/magic numbers like maximums or minimums, etc.
